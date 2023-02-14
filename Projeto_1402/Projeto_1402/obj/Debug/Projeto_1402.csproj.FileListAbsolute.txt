@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\Projeto_1402\Projeto_1402\bin\Debug\Projeto_1402.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Projeto_1402\Projeto_1402\bin\Debug\Projeto_1402.exe
+c:\users\user\documents\visual studio 2013\Projects\Projeto_1402\Projeto_1402\bin\Debug\Projeto_1402.pdb
+c:\users\user\documents\visual studio 2013\Projects\Projeto_1402\Projeto_1402\obj\Debug\Projeto_1402.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Projeto_1402\Projeto_1402\obj\Debug\Projeto_1402.Frm_principal.resources
+c:\users\user\documents\visual studio 2013\Projects\Projeto_1402\Projeto_1402\obj\Debug\Projeto_1402.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Projeto_1402\Projeto_1402\obj\Debug\Projeto_1402.Visao.Frm_venda.resources
+c:\users\user\documents\visual studio 2013\Projects\Projeto_1402\Projeto_1402\obj\Debug\Projeto_1402.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Projeto_1402\Projeto_1402\obj\Debug\Projeto_1402.exe
+c:\users\user\documents\visual studio 2013\Projects\Projeto_1402\Projeto_1402\obj\Debug\Projeto_1402.pdb
